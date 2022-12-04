@@ -3,8 +3,8 @@ $primary: #c29938;
 $light:#fbf5e5;
 
 //import the functions & variables
-@import "../node_modules/bootstrap/scss/functions";
-@import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/_functions";
+@import "../node_modules/bootstrap/scss/_variables";
 
 $custom-theme-colors:(
     "altlight":#f2ebfa,
